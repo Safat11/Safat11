@@ -11,11 +11,11 @@
 
 - 👯 I’m looking to collaborate on [Sports Academy](https://sports-academy-dfce9.web.app/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/SHsiam](https://github.com/SHsiam)
+- 👨‍💻 All of my projects are available at [https://github.com/Safat11](https://github.com/Safat11)
 
 - 💬 Ask me about **React, Java Script, MongoDB, Node.js, Express.js, NextJS Android and Java**
 
-- 📫 How to reach me **mdshiam4@gmail.com**
+- 📫 How to reach me **safat3622@gmail.com**
 - [Portfolio](https://sayed-hossain-bhuiyan.netlify.app/)
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10sbYoifzDfWyTHC5pXqffsrFPC_MCwpT/view?usp=sharing)
 
