@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Safat11](https://github.com/Safat11)
 
-- 💬 Ask me about **React, Java Script, MongoDB, Node.js, Express.js, NextJS Android and Java**
+- 💬 Ask me about **React, Java Script, MongoDB, Node.js, Express.js, NextJS, AI/ML, Python, Flutter and Dart**
 
 - 📫 How to reach me **safat3622@gmail.com**
 - [Portfolio](https://sayed-hossain-bhuiyan.netlify.app/)
