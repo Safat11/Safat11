@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Easy Shop & E-commerce**
 
-- 👯 I’m looking to collaborate on [Sports Academy](https://sports-academy-dfce9.web.app/)[MeetPlanr](https://meetplanr.vercel.app/)
+- 👯 I’m looking to collaborate on [Sports Academy](https://sports-academy-dfce9.web.app/)_&_[MeetPlanr](https://meetplanr.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Safat11](https://github.com/Safat11)
 
