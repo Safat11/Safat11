@@ -32,7 +32,7 @@
     <a href="https://www.linkedin.com/in/amran-hossain-safat-355897293/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="Amran Hossain" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/10548494" target="blank"><img align="center"
+    <a href="https://stackoverflow.com/users/17509645/amran-hossain-safat" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
             alt="10548494" height="30" width="40" /></a>
     <a href="https://www.facebook.com/AmranSafat/" target="blank"><img align="center"
