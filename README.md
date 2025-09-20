@@ -11,9 +11,9 @@
             src="https://img.shields.io/twitter/follow/@AmranSaFat?logo=twitter&style=for-the-badge"
             alt="@AmranSaFat" /></a> </p>
 
-- 🔭 I’m currently working on **Easy Shop**
+- 🔭 I’m currently working on **Easy Shop & E-commerce**
 
-- 👯 I’m looking to collaborate on [Sports Academy](https://sports-academy-dfce9.web.app/)
+- 👯 I’m looking to collaborate on [Sports Academy](https://sports-academy-dfce9.web.app/)[MeetPlanr](https://meetplanr.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Safat11](https://github.com/Safat11)
 
