@@ -22,7 +22,7 @@
 - 📫 How to reach me **safat3622@gmail.com**
 - [Portfolio](https://github.com/Safat11?tab=repositories)
 - 📄 Know about my experiences
-[Resume](https://drive.google.com/file/d/1mzB8skFlEJK2pknZXtZxdJBRvIe46h-E/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/1IetDcqNAvtxAw9ts-jGwq029GHLQEXNO/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
