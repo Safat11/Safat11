@@ -20,7 +20,7 @@
 - 💬 Ask me about **React, Java Script, MongoDB, Node.js, Express.js, NextJS, AI/ML, Python, Flutter and Dart**
 
 - 📫 How to reach me **safat3622@gmail.com**
-- [Portfolio](https://github.com/Safat11?tab=repositories)
+- [Portfolio](https://portfolio-theta-ten-38.vercel.app/)
 - 📄 Know about my experiences
 [Resume](https://drive.google.com/file/d/1IetDcqNAvtxAw9ts-jGwq029GHLQEXNO/view?usp=sharing)
 
