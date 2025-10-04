@@ -22,7 +22,7 @@
 - 📫 How to reach me **safat3622@gmail.com**
 - [Portfolio](https://portfolio-theta-ten-38.vercel.app/)
 - 📄 Know about my experiences
-[Resume](https://drive.google.com/file/d/1IetDcqNAvtxAw9ts-jGwq029GHLQEXNO/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/1O4_KxHgzPiToaOQs7Ejga1WKl9A4jadP/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
